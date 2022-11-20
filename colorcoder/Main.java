@@ -1,6 +1,6 @@
 package colorcoder;
 
-public class ColorPairApplication {
+public class Main {
     public static void main(String[] args) {
         TestColorPair.testNumberToPair(4, MajorColor.WHITE, MinorColor.BROWN);
         TestColorPair.testNumberToPair(5, MajorColor.WHITE, MinorColor.SLATE);
