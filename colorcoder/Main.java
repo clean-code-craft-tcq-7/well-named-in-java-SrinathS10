@@ -9,5 +9,6 @@ public class Main {
         System.out.println("----------------------------");
         System.out.println("25-pair color code Manual: ");
         System.out.println(GetColorPairInfo.getColorPairManual());
+        System.out.println("----------------------------");
     }
 }
