@@ -8,7 +8,7 @@ public class Main {
         TestColorPair.testPairToNumber(MajorColor.VIOLET, MinorColor.SLATE, 25);
         System.out.println("----------------------------");
         System.out.println("25-pair color code Manual: ");
-        System.out.println(GetColorPairInfo.getColorPairManual());
+        System.out.println(ColorPairInformation.getColorPairManual());
         System.out.println("----------------------------");
     }
 }

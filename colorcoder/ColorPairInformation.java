@@ -1,6 +1,6 @@
 package colorcoder;
 
-public class GetColorPairInfo {
+public class ColorPairInformation {
 
     public static Color getColorFromIndex(Color[] colors, int index){
         for(Color color:colors){
